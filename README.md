@@ -1,4 +1,4 @@
-# Grond <img align="right" src="assets/grond-logo.png" width=36>
+# Grond <img align="right" src="assets/grond-logo.png" width=72>
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/frost19k/Dockerfiles/blob/master/LICENSE.rst)
 
